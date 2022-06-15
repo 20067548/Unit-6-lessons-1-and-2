@@ -4,7 +4,6 @@ class Main
 {
   public static void main(String[] args) 
   {
-    /*
     int[] nums = new int[6];
     nums[0] = 5;
     nums[1] = 10;
@@ -48,7 +47,7 @@ class Main
     System.out.println();
 
 
-   /* String[] candy = new String[5];
+   String[] candy = new String[5];
     Scanner scan = new Scanner(System.in);
     int index = 0;
 
@@ -59,7 +58,7 @@ class Main
       System.out.println("candy[" + index + "] = " + candy[index]);
       System.out.println();
       index++;
-    } ////////////////////////////////////////////////////////////////////////////////////////
+    } 
 
     //Lesson two - searching.
     System.out.println("//////////////////////////");
@@ -137,7 +136,7 @@ boolean flags = false;
         break;
       }
     }
-    System.out.println("Were there any words with more than four letters? \n" + flags); */
+    System.out.println("Were there any words with more than four letters? \n" + flags); 
 
     String words2[] = {"apple", "banana", "strawberry", "blueberries"};
 
